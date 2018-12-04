@@ -40,15 +40,15 @@
 #### Unit 4
 
 1. What's your name?
-2. Where's my glasses?
+2. ~~Where's my glasses?~~ Where're my glasses?
 3. Who's your teacher?
-4. When's the exam?
+4. ~~When's the exam?~~ When're the exam
 5. Why're you late?
 6. How's your mother?
 7. Where's Daniel?
 8. Who're those men?
 9. How're your parents?
-10. What's your birthday?
+10. ~~What's your birthday?~~ When's your birthday?
 
 #### Unit 5
 
@@ -68,7 +68,7 @@
 1. He's thirsty.
 2. She's cold.
 3. They're hot.
-4. It's freeze.
+4. ~~It's freeze.~~ It's cold.
 
 #### Unit 7
 
