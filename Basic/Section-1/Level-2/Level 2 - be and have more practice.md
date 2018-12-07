@@ -56,3 +56,52 @@
 8. I’m not going to the party.There won’t be any interesting people there.
 9. Was there a phone call for me while I was out?
 10. Will there be anybody in the office tomorrow.
+
+#### Unit 6
+
+My name’s Loc. I’m from Ha Noi, in Viet Nam.I’m an unemployed.I’m 26.I’m not married. I’ve got one sister.
+
+I’m interested in music and computer. I’m not interested in politics.
+
+#### Unit 7
+
+1. is
+2. is
+3. are
+4. has
+5. was
+6. weren’t
+7. ~~had not~~ did not have
+8. was
+9. is
+10. has
+11. has
+12. is
+13. is
+14. is
+15. has
+16. ~~hasn’t~~ does not have
+17. has
+18. is
+19. has
+20. has
+
+#### Unit 8
+
+1. True
+2. False
+3. True
+4. True
+5. False
+6. True
+7. False
+8. ~~True~~ False
+9. False
+10. True
+
+#### Unit 9
+
+1. There is a house of rising sun
+2. Once I had a secret love.
+3. Have a party
+
