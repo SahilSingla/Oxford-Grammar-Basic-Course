@@ -20,7 +20,7 @@
 3. tries
 4. wear
 5. washes
-6. talk
+6. ~~talk~~ **work**
 7. says
 8. sits
 9. watches
