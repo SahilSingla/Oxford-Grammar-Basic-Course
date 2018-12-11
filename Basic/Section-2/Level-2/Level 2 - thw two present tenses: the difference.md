@@ -48,7 +48,7 @@
 
 9. Carol plays the piano.
 
-   But she isn’t plays piano now.
+   But she isn’t ~~plays~~ **playing** piano now.
 
 10. Simon writes poetry.
 
@@ -61,10 +61,10 @@
 #### Unit 3
 
 1. is she working
-2. Is it rains 
-3. I not speak
+2. ~~Is~~ **Does** it rains 
+3. I don’t speak
 4. is getting better
-5. Are you playing?
+5. ~~Are you playing~~ **Do you play**?
 6. are you writing
 7. She is coming
 8. I’m going

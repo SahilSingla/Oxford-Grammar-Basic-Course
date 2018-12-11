@@ -34,7 +34,7 @@
 4. isn’t wearing
 5. is walking
 6. are looking
-7. is trying
+7. ~~is~~  **are** trying
 8. are stopping 
 9. is returning
 10. is kissing
