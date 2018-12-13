@@ -48,7 +48,7 @@
 7. What time does the bus from London arrive?
 8. I’m not using the car tomorrow.
 9. I’m going to cook steak this evening.
-10. How are you travelling to Ireland?
+10. How are you ~~travelling~~ **going to travel** to Ireland?
 11. I will phone you when I get home.
 12. Are you working on Saturday?
 13. Will you need a room for the night?
