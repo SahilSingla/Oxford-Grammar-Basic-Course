@@ -5,13 +5,13 @@
 1. PROBABLY NOT
 2. YES
 3. DON’T KNOW
-4. DON’T KNOW
+4. ~~DON’T KNOW~~ **YES**
 5. DON’T KNOW
 6. YES
 7. NO
 8. DON’T KNOW
 9. DON’T KNOW
-10. DON’T KNOW
+10. ~~DON’T KNOW~~ **NO**
 
 #### Unit 2
 
@@ -55,8 +55,8 @@
 
 #### Unit 5
 
-1. gone to
-2. been to
+1. gone ~~to~~
+2. been ~~to~~
 3. been 
 4. gone 
 5. been

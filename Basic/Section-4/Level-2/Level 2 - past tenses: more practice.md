@@ -23,7 +23,7 @@
 6. was doing
 7. was snowing
 8. weren’t running
-9. was you driving
+9. ~~was~~ **were** you driving
 10. was standing
 
 #### Unit 3
@@ -41,7 +41,7 @@
 
 #### Unit 4
 
-1. ooked
+1. looked
 2. was raining
 3. washed
 4. got dressed
@@ -66,7 +66,7 @@
 
 1. Mozart composed “Symphony No. 1 in E b”.
 2. Leonardo da Vinci painted “Mona Lisa”.
-3. Shah Jehan made Taj Mahal.
+3. Shah Jehan ~~made~~ **built** Taj Mahal.
 4. Alfred Nobel invented dynamite.
 5. Sergei Eisenstein directed “Ivan the Terrible”.
 6. Gustave Eiffel built Eiffel tower.

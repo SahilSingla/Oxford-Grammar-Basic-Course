@@ -59,9 +59,10 @@
 12. Where has my brother gone?
 13. Why has Peter closed the window?
 14. Has Judith passed her exam?
-15. Has the postman came?
+15. Has the postman ~~came~~ **come**?
 
 #### Unit 4
 
-1. You have seen a lady without me.
-2. Sorry,I haven’t seen your ball.
+1. You have seen a lady without me. - Have you seen a lady without me ?
+2. 
+3. Sorry,I haven’t seen your ball.

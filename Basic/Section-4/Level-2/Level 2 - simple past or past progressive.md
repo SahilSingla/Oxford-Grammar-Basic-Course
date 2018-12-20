@@ -19,9 +19,9 @@
 2. He wasn’t talking.
 3. It was snowing.
 4. She wasn’t walking very fast.
-5. What was you doing?
+5. What ~~was~~  **were** you doing?
 6. Were they talking about me?
-7. was you driving
+7. ~~was~~ **were** you driving
 8. wasn’t expecting
 9. was doing
 10. weren’t running
@@ -30,7 +30,7 @@
 
 1. was reading - jumped
 2. met - was travelling.
-3. broke - was skiiing
+3. broke - was skiing
 4. was shopping - stole
 5. phoned - was working
 6. stopped - was driving
@@ -63,6 +63,6 @@
 5. turned
 6. started
 7. turned
-8. passed
+8. ~~passed~~ was passing
 9. ran
 10. pulled

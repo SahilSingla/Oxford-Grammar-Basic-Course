@@ -52,11 +52,11 @@
 #### Unit 4
 
 1. we drove
-2. was studying
+2. ~~was studying~~ **studied**
 3. Why were you crying 
-4. began - went
+4. ~~began~~ **was beginning** - went
 5. paid - left
-6. shopping - steal
+6. shopping - ~~steal~~ **stole**
 7. rang 
 8. opened
 9. did you get up?
